@@ -1,0 +1,14 @@
+{
+  "name": "Manifest Lua Oluşturucu",
+  "version": "pre-alpha v1.0.0",
+  "release_date": "25.05.2025",
+  "author": "Your Name Here",
+  "description": "Bu dosya, Lua tabanlı uygulamalar için temel bir manifest yapısını temsil eder.",
+  "api_token": "TeNQe6mnrg3pT4M7dZZMOWL3wxgqA8ps",
+  "upload_url": null,
+  "dependencies": [],
+  "changelog": [
+    "İlk yapı oluşturuldu.",
+    "API entegrasyonu eklendi."
+  ]
+}
